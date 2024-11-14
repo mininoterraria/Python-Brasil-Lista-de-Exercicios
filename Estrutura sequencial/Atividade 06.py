@@ -6,7 +6,6 @@ raio = float(input("Insira o raio do circulo: "))
 if(raio <= 0):
   print("Raio inválido!")
 else:
-  
   #Faz o cálculo da área do círculo.
   area_circulo = 3.1415926535898 * (raio ** 2) #** -> Calcula a potência.
 
